@@ -1,0 +1,18 @@
+body {
+    background-color: aliceblue;
+}
+
+.container {
+    width: 90%;
+    display: block;
+    margin: 0 auto;
+    background-color: lightgrey;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: limegreen;
+    color: #fff;
+    font-size: 15px;
+    cursor: pointer;
+}
