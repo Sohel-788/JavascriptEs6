@@ -22,7 +22,7 @@ console.log("A line break here");
 
 //3rd method . It's a shortcut and exclusive method
 function byDefaultValueSet(x, y) {
-    y = y || 0;
+    var y = y || 0;
     return x + y;
 };
 const total3 = byDefaultValueSet(20);
